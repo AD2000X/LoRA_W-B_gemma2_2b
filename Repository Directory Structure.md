@@ -1,3 +1,4 @@
+```bash
 gemma2-lora-finetune/
 │
 ├── LICENSE                       # Apache 2.0 license
