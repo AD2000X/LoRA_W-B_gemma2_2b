@@ -1,6 +1,7 @@
 # Gemma 2 Fine-tuning with LoRA and Weights & Biases
 
 This project demonstrates how to efficiently fine-tune the Gemma 2 (2B) language model using Low-Rank Adaptation (LoRA) technique, with experiment tracking via the Weights & Biases platform.
+
 Report link: https://wandb.ai/ad2000x-none/LoRA_gemma_kerasNLP_W&B/reports/Exploring-Project-Weights-Biases-for-Fine-Tuning-a-Large-Language-Model-with-LoRA--VmlldzoxMTQ1MTAwMA?accessToken=ac7h6wqw9m0tjk53954o2e0dlsrpt1otjsaqvhq4rlu60ct1vsg2oknrzh8sbmva
 
 ## Features
